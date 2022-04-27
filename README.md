@@ -19,8 +19,6 @@
 <a href="https://ibb.co/kDyHpzP"><img src="https://i.ibb.co/7pzYHB0/Labs-Do-Dev02.png" alt="Labs-Do-Dev02" width="200"></a>
 <a href="https://ibb.co/bPyksrN"><img src="https://i.ibb.co/FKfF5B8/Labs-Do-Dev03.png" alt="Labs-Do-Dev03" width="200"></a>
 
-> Trabalho Pessoal
-
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
