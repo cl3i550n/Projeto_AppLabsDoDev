@@ -25,7 +25,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o Prototipo, siga estas etapas:
 
-Windows | Linux (Ubuntu)
+Windows 10 / 11 | Linux (Ubuntu 20.04+ lts)
 ```
 npm install ou yarn install
 ```
